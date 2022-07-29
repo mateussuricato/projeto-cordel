@@ -7,6 +7,8 @@ Esse projeto eu estava aprendendo usar o background-image: parallax.
 Clique na imagem abaixo para acessar o projeto:
 
 <a href="https://mateussuricato.github.io/projeto-cordel/" target="_blank"><img style="width:10%" src="https://4.bp.blogspot.com/-4_ydeKvm6AE/Tkk5n4JqPOI/AAAAAAAAEIs/W05wSMkj5qs/s1600/imagem+cordel.jpg" alt="ícone pokedex"></a>
+[link](https://mateussuricato.github.io/projeto-cordel/){:target="_blank"}
+
 
 
 ## Stacks
